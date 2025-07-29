@@ -8,7 +8,7 @@ This project aims to develop a model that can predict federal interest rates in 
 ![](https://github.com/nadunKM/Fed_interest_analysis/blob/main/Images/US%20Debt.png)
 
 ### Dataset
-The data for this study, crucial for understanding the impact of US debt on the federal interest rates, are sourced from a reliable and widely used database: [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/). This database has been providing comprehensive data since the 1920s.
+The data for this **study, crucial for understanding the impact of US debt on the federal interest rates, are sourced from a reliable and widely used database: [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/). This database has been providing comprehensive data since the 1920s.
 
 ## Data Cleaning
 
